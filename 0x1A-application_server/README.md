@@ -28,4 +28,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* **Kehinde Owolabi** - [owolabi250](https://github.com/owolabi250)
